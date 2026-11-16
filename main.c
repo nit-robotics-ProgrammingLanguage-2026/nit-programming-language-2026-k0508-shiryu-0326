@@ -40,6 +40,6 @@ int main(void)
             printf("No");
         }
     }
-
+    
     return 0;
 }
